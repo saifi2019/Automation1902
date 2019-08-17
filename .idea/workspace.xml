@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1bb0ec8-cd4b-4588-83d8-489494341137" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/inheritance/INHERITANCE2/Nokia1100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/INHERITANCE2/Nokia6610.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/INHERITANCE2/PreNokia1100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/INHERITANCE2/PreNokia1100Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/INHERITANCE2/SymbianPhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/inheritance/INHERITANCE2/Nokia1100.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -63,7 +68,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/inheritance/INHERITANCE2" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -296,8 +301,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.4983845" weight="0.31604537" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.89499193" visible="true" weight="0.32901135" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.10500808" side_tool="true" visible="true" weight="0.32901135" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.8933764" visible="true" weight="0.32901135" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.10662359" side_tool="true" visible="true" weight="0.32901135" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49596122" weight="0.3273906" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.19448946" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -675,8 +680,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/inheritance/INHERITANCE2/Nokia1100.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
